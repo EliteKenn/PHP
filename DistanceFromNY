@@ -1,0 +1,10 @@
+Web application that displays the distance from NY to major cities in the world. 
+The Web page allows for the user to enter a city and in case the city is in the server then the app displays the distance from NY to the input city otherwise it display "No city found". Store the information below in array.
+
+ Use the following information
+ 
+ City	Distance (miles)
+ Dublin	3176 
+ Paris  3625 
+ London 3459 
+ Dhaka	6883
